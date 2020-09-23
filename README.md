@@ -1,1 +1,1 @@
-# elen0062-introduction-to-machine-learning
+# ELEN0062 - Introduction to Machine Learning
